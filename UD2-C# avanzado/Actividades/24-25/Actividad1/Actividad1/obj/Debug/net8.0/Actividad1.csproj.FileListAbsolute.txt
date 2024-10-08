@@ -1,0 +1,14 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\refint\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAW\DWES\Temario\C#\UD2-C# avanzado\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\ref\Actividad1.dll
