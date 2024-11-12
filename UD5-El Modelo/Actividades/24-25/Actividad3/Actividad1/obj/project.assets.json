@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Dapper >= 2.1.35"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MARTIN\\.nuget\\packages\\": {},
@@ -14,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\Actividad3.csproj",
+      "projectUniqueName": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\Actividad3.csproj",
       "projectName": "Actividad3",
-      "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\Actividad3.csproj",
+      "projectPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\Actividad3.csproj",
       "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\obj\\",
+      "outputPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +88,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.35, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
