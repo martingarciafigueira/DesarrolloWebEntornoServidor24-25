@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {}
+    "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {
+    "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
+        "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
         "projectName": "Actividad3",
-        "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
+        "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
         "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\obj\\",
+        "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,15 +50,15 @@
             },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.7, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

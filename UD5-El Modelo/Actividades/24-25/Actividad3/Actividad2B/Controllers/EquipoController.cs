@@ -34,5 +34,33 @@ namespace Actividad3.Controllers
             _repository.CreateEquipo(equipo);
             return RedirectToAction("Index");
         }
-    }
+        [HttpGet]
+        public IActionResult Edit(string codigo)
+        {
+            Equipo equipo = _repository.GetEquipoById(codigo);
+
+            return View(equipo);
+        }
+		[HttpPost]
+		public IActionResult Edit(Equipo equipo)
+		{
+            _repository.UpdateEquipo(equipo);
+
+			return RedirectToAction("Index");
+		}
+		[HttpGet]
+		public IActionResult Delete(string codigo)
+		{
+			Equipo equipo = _repository.GetEquipoById(codigo);
+
+			return View(equipo);
+		}
+		[HttpPost]
+		public IActionResult Delete(Equipo equipo)
+		{
+			_repository.DeleteEquipo(equipo);
+
+			return RedirectToAction("Index");
+		}
+	}
 }
