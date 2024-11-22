@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {}
+    "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {
+    "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
+        "projectUniqueName": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
         "projectName": "Actividad3",
-        "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
+        "projectPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
         "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\obj\\",
+        "outputPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

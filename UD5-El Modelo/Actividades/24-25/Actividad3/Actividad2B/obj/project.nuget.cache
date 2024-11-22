@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Ekx0eSzCsDNxPHTzsNQTZi63B5gxki3FLTy+7xoZYUgnAq53KYQGKNoEr4Bam+ebq13m2/PASAHmQJrLIWU9w==",
+  "dgSpecHash": "bQgbq+yZWsVx9JIvEJQmMvnClBrgALFB9o4LXGXUNp4QqD8kFsnJbe6WO/0q3HE1pxh60aVnhZrx2wR1P+H8UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\DAW-DAM\\2º DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
+  "projectFilePath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor24-25\\UD5-El Modelo\\Actividades\\24-25\\Actividad3\\Actividad2B\\Actividad3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MARTIN\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\MARTIN\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
