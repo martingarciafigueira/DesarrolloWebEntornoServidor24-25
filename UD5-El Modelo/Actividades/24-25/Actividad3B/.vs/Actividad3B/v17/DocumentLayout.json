@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB6245A-9B76-4E97-9D29-BD332092F0F5}|Actividad2B\\Actividad3.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA daw\\dwes\\temario\\c#\\ud5-el modelo\\actividades\\24-25\\actividad3b\\actividad2b\\models\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB6245A-9B76-4E97-9D29-BD332092F0F5}|Actividad2B\\Actividad3.csproj|solutionrelative:actividad2b\\models\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB6245A-9B76-4E97-9D29-BD332092F0F5}|Actividad2B\\Actividad3.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA daw\\dwes\\temario\\c#\\ud5-el modelo\\actividades\\24-25\\actividad3b\\actividad2b\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB6245A-9B76-4E97-9D29-BD332092F0F5}|Actividad2B\\Actividad3.csproj|solutionrelative:actividad2b\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3B\\Actividad2B\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Actividad2B\\Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3B\\Actividad2B\\Models\\Equipo.cs",
+              "RelativeToolTip": "Actividad2B\\Models\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:37:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Futbolista.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3B\\Actividad2B\\Models\\Futbolista.cs",
+              "RelativeDocumentMoniker": "Actividad2B\\Models\\Futbolista.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD5-El Modelo\\Actividades\\24-25\\Actividad3B\\Actividad2B\\Models\\Futbolista.cs",
+              "RelativeToolTip": "Actividad2B\\Models\\Futbolista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:30:28.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

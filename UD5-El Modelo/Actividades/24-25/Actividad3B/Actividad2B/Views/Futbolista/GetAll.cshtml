@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Actividad3.Models.Futbolista>
+
+@{
+    ViewData["Title"] = "GetAll";
+}
+
+<h1>GetAll</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.codigoEquipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.posicion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.edad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.goles)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TR)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.minutos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.precioMercado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dorsal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.peso)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigoEquipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.posicion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.edad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.goles)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.minutos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precioMercado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dorsal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.peso)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { codigo = item.codigo }) |
+                    @Html.ActionLink("Delete", "Delete", new { codigo = item.codigo })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

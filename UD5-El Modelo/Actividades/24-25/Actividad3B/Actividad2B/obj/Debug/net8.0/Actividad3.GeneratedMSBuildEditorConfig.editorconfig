@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Actividad3
+build_property.RootNamespace = Actividad3
+build_property.ProjectDir = C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAW\DWES\Temario\C#\UD5-El Modelo\Actividades\24-25\Actividad3B\Actividad2B\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAW\DWES\Temario\C#\UD5-El Modelo\Actividades\24-25\Actividad3B\Actividad2B
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Equipo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Equipo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Equipo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Equipo/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Futbolista/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9saXN0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Futbolista/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9saXN0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Futbolista/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9saXN0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Futbolista/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9saXN0YVxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Futbolista/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9saXN0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/CS/DAW-DAM/2º DAW/DWES/Temario/C\#/UD5-El Modelo/Actividades/24-25/Actividad3B/Actividad2B/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qtbf4rzybv

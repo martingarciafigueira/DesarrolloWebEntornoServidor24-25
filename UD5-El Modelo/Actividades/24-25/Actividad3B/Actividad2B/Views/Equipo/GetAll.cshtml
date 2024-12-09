@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Actividad3.Models.Equipo>
+
+@{
+	ViewData["Title"] = "GetAll Equipo";
+}
+
+<h1>GetAll</h1>
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Codigo)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Nombre)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pais)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Goles)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Puntos)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PJ)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PG)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PE)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.PP)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Estadio)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Ciudad)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Codigo)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Nombre)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Pais)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Goles)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Puntos)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.PJ)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.PG)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.PE)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.PP)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Estadio)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Ciudad)
+				</td>
+				<td>
+					@Html.ActionLink("Edit", "Edit", new { codigo = item.Codigo }) |
+					@Html.ActionLink("Delete", "Delete", new { codigo = item.Codigo })
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

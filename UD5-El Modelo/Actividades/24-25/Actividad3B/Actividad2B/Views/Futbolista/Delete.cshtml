@@ -1,0 +1,93 @@
+﻿@model Actividad3.Models.Futbolista
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Futbolista</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.codigo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.codigo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.codigoEquipo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.codigoEquipo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.posicion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.posicion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.edad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.edad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.goles)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.goles)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TA)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TA)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TR)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TR)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.minutos)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.minutos)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.precioMercado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.precioMercado)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dorsal)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dorsal)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.peso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.peso)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input asp-for="@Model.codigo" type="hidden" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
