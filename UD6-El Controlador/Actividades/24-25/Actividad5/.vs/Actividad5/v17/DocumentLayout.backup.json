@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA daw\\dwes\\temario\\c#\\ud6-el controlador\\actividades\\24-25\\actividad5\\actividad5\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|solutionrelative:actividad5\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA daw\\dwes\\temario\\c#\\ud6-el controlador\\actividades\\24-25\\actividad5\\actividad5\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|solutionrelative:actividad5\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA daw\\dwes\\temario\\c#\\ud6-el controlador\\actividades\\24-25\\actividad5\\actividad5\\views\\persona\\cambiarnombreapellidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1252DD-6B4D-4567-9EAC-7EC4C3F7F24B}|Actividad5\\Actividad5.csproj|solutionrelative:actividad5\\views\\persona\\cambiarnombreapellidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CambiarNombreApellidos.cshtml",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Views\\Persona\\CambiarNombreApellidos.cshtml",
+              "RelativeDocumentMoniker": "Actividad5\\Views\\Persona\\CambiarNombreApellidos.cshtml",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Views\\Persona\\CambiarNombreApellidos.cshtml",
+              "RelativeToolTip": "Actividad5\\Views\\Persona\\CambiarNombreApellidos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:10:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Actividad5\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Actividad5\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:08:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Actividad5\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\24-25\\Actividad5\\Actividad5\\Models\\Persona.cs",
+              "RelativeToolTip": "Actividad5\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:29.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
